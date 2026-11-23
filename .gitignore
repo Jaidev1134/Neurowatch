@@ -4,6 +4,7 @@ dist
 .env.local
 .next
 coverage
+venv/
 backend/.venv
 backend/__pycache__
 backend/data/*.db
